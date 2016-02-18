@@ -9,3 +9,4 @@ https://github.com/simonvh/devcomvis/archive/master.zip
 View the notebooks online with nbviewer:
 
 * [basic graphs](http://nbviewer.jupyter.org/github/simonvh/devcomvis/blob/master/graphs_in_python.ipynb).
+* [advanced visualization](http://nbviewer.jupyter.org/github/simonvh/devcomvis/blob/master/advanced_visualization.ipynb).
