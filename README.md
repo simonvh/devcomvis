@@ -4,11 +4,8 @@ For the DevCom pratical in Seville Feb 2016.
 
 Download the notebooks and the data in one file here:
 
-https://github.com/simonvh/devcomvis/tarball/master
+https://github.com/simonvh/devcomvis/archive/master.zip
 
-Extract it using 7zip on Windows or on the command line:
-
-
-View the notebooks with nbviewer:
+View the notebooks online with nbviewer:
 
 * [basic graphs](http://nbviewer.jupyter.org/github/simonvh/devcomvis/blob/master/graphs_in_python.ipynb).
